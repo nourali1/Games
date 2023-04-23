@@ -1,0 +1,23 @@
+#box
+{
+    text-align: center;
+    border:solid;
+    height:550;
+    width:1000px;
+    margin:auto
+}
+#text1
+{
+    font-size:25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.gamelnk
+{
+    color:white
+}
+#page
+{
+    background: linear-gradient(45deg,rgb(43, 41, 41),red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;;
+}
